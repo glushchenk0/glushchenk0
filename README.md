@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Mykhailo Hlushchenko
 - 👀 I’m interested in full stack development
-- 💞️ https://www.codewars.com/users/Glushchenk0/completed_solutions
-- 📫 How to reach me TG: https://t.me/glushchenk0
